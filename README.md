@@ -7,11 +7,11 @@ for windows.
 # use php version 5.6.40
 chv 5.6.40
 
-# use php version 5.6.40
-chv 5.6.40
+# use php version 7.2.32
+chv 7.2.32
 
-# use php version 5.6.40
-chv 5.6.40
+# use php version 7.4.8
+chv 7.4.8
 
 ```
 
